@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Pushpak Bhosale!<br>🎓 B.E. in Electronics & Telecommunication (Expected May 2025)<br>💻 Passionate about Android and iOS Development with skills in Java, Swift, XML, and more!<br>📱 Built mobile apps like NexNews (news updates) and Voxia (AI voice assistant).<br>🚀 Always learning, growing, and staying up-to-date with the latest in tech!<br>🎯 Let's create something awesome together!
+👋 Hi, I'm Pushpak Bhosale!<br>🎓 B.E. in Electronics & Telecommunication (May 2025)<br>💻 CDAC DITISS <br>📱 Built mobile apps like NexNews (news updates) and Voxia (AI voice assistant).<br>🚀 Always learning, growing, and staying up-to-date with the latest in tech!<br>🎯 Let's create something awesome together!
 
 
 ## 🌐 Socials:
