@@ -1,5 +1,4 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6089422" style='border:none;'></iframe>
-
+[![TryHackMe Badge](./assets/tryhackme-badge.png)](https://tryhackme.com/p/pushpak3504)
 
 
 ## 🌐 Socials:
