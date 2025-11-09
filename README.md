@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Pushpak Bhosale!<br>🎓 B.E. in Electronics & Telecommunication (May 2025)<br>💻 CDAC DITISS <br>📱 Built mobile apps like NexNews (news updates) and Voxia (AI voice assistant).<br>🚀 Always learning, growing, and staying up-to-date with the latest in tech!<br>🎯 Let's create something awesome together!
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6089422" style='border:none;'></iframe>
+
 
 
 ## 🌐 Socials:
